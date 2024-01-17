@@ -1,2 +1,2 @@
-# OracleONE---Logica-de-Programacao
-Repositório onde armazeno os exercicios de lógica de programação da formação Oracle ONE
+# OracleONE
+Repositório onde armazeno os exercicios da formação Oracle ONE
